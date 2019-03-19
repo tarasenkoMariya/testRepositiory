@@ -1,6 +1,7 @@
 
 *       @global-owner1 @tarasenkoMariya
 *.txt    @txt-owner
+*.js    @js-owner
 /src/main/java/com/* @comowner
 /src/main/java/com/test/  matar@ciklum.com
 /src/main/java/com/test/ @testowner
